@@ -44,7 +44,7 @@ Sistema desarrollado para ingresar, editar y controlar el stock hospitalario des
 ## 💬 Nota
 
 Este repositorio muestra solo una descripción general del sistema.  
-El código fuente completo puede ser solicitado en entrevistas o contextos laborales.
+El código fuente completo puede ser solicitado en entrevistas o contextos profesionales.
 
 ---
 
