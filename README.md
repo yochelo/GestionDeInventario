@@ -26,7 +26,7 @@ Sistema desarrollado para ingresar, editar y controlar el stock hospitalario des
 
 ## 📁 Estructura del proyecto (en versión completa)
 
-""" text
+``` text
 /GESTION
 ├── /public
 │   └── GestionDeInventario.html
@@ -37,7 +37,7 @@ Sistema desarrollado para ingresar, editar y controlar el stock hospitalario des
 ├── package.json
 ├── varios archivos JSON
 └── README.md
-"""
+```
 
 📌 Esta estructura representa una versión funcional. Algunas carpetas y archivos fueron omitidos por simplicidad o privacidad
 
